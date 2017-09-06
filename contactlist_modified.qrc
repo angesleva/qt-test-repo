@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>EmployeeView.ui.qml</file>
+        <file>EmployeeDataForm.qml</file>
+        <file>EmployeeDialog.qml</file>
+        <file>EmployeeListDelegate.ui.qml</file>
+        <file>ContractTypeView.ui.qml</file>
+        <file>SectionDelegate.ui.qml</file>
+        <file>DynLabel.qml</file>
+        <file>Editor.qml</file>
+        <file>MessageBox.qml</file>
+        <file>PaymentListDelegate.ui.qml</file>
+        <file>PaymentListHeaderComponent.qml</file>
+        <file>PaymentViewDialog.qml</file>
+        <file>PaymentList.ui.qml</file>
+        <file>PaymentListModel.qml</file>
+        <file>PaymentDialog.qml</file>
+        <file>PaymentDialogForm.ui.qml</file>
+        <file>CommonVariablesAndMethods.qml</file>
+        <file>qmldir</file>
+        <file>EmployeeList.qml</file>
+    </qresource>
+</RCC>
