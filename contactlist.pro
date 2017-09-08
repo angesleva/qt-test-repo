@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = contactlist_modified
+TARGET = qtlauncher
 QT += quick
 QT += sql
 
@@ -42,10 +42,10 @@ SOURCES += \
 RESOURCES = contactlist_modified.qrc
 
 # Default rules for deployment.
-qnx: target.path = /tmp/$${TARGET}/bin
-else: unix:!android: target.path = /opt/$${TARGET}/bin
-!isEmpty(target.path): INSTALLS += target
-
+#qnx: target.path = /tmp/$${TARGET}/bin
+#else: unix:!android: target.path = /opt/$${TARGET}/bin
+#!isEmpty(target.path): INSTALLS += target
+target.path = $$[INSTALL_ROOT]/usr/bin
 
 # Additional import path used to resolve QML modules just for Qt Quick Designer
 QML_DESIGNER_IMPORT_PATH = $$PWD/designer

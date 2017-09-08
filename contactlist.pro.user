@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2017-09-05T15:42:35. -->
+<!-- Written by QtCreator 4.3.1, 2017-09-07T16:35:56. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -855,14 +855,14 @@
        <value type="QString">/home/ilangesl/myCode/build-contactlist-Boot2Qt_5_9_1_Raspberry_Pi_3-Debug/contactlist_modified</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedHosts">
-       <value type="QString">10.9.21.14</value>
-       <value type="QString">10.9.21.66</value>
+       <value type="QString">10.9.21.42</value>
        <value type="QString">10.9.21.60</value>
        <value type="QString">192.168.1.2</value>
        <value type="QString">10.9.21.27</value>
-       <value type="QString">10.9.21.42</value>
        <value type="QString">10.9.21.32</value>
+       <value type="QString">10.9.21.66</value>
        <value type="QString">10.9.21.64</value>
+       <value type="QString">10.9.21.14</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedRemotePaths">
        <value type="QString">/opt/contactlist_modified/bin</value>
@@ -885,14 +885,14 @@
        <value type="QString">/home/ilangesl/Qt/5.9.1/Boot2Qt/raspberrypi3/toolchain/sysroots/cortexa7hf-neon-vfpv4-poky-linux-gnueabi</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedTimes">
-       <value type="QDateTime">2017-07-21T13:54:41</value>
-       <value type="QDateTime">2017-08-17T16:22:09</value>
+       <value type="QDateTime">2017-08-14T15:57:48</value>
        <value type="QDateTime">2017-08-04T10:05:16</value>
        <value type="QDateTime">2017-08-11T16:40:32</value>
        <value type="QDateTime">2017-08-18T08:12:25</value>
-       <value type="QDateTime">2017-08-14T15:57:48</value>
        <value type="QDateTime">2017-07-20T16:37:20</value>
+       <value type="QDateTime">2017-08-17T16:22:09</value>
        <value type="QDateTime">2017-08-02T16:53:05</value>
+       <value type="QDateTime">2017-07-21T13:54:41</value>
       </valuelist>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.IgnoreMissingFiles">false</value>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.Incremental">true</value>
@@ -1189,17 +1189,22 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinux.DirectUploadStep</value>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedFiles">
        <value type="QString">/home/ilangesl/myCode/build-contactlist-Custom_Qt_5_9_1_imx6qsabresd-Debug/contactlist_modified</value>
+       <value type="QString">/home/ilangesl/myCode/build-contactlist-Custom_Qt_5_9_1_imx6qsabresd-Debug/contactlist_modified</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedHosts">
+       <value type="QString">10.9.21.88</value>
        <value type="QString">10.9.21.41</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedRemotePaths">
        <value type="QString">/opt/contactlist_modified/bin</value>
+       <value type="QString">/opt/contactlist_modified/bin</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedSysroots">
        <value type="QString">/home/ilangesl/Qt/YoctobuildDir/build-imx6qsabresd/tmp/deploy/sdk/opt/b2qt/2.2.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi</value>
+       <value type="QString">/home/ilangesl/Qt/YoctobuildDir/build-imx6qsabresd/tmp/deploy/sdk/opt/b2qt/2.2.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi</value>
       </valuelist>
       <valuelist type="QVariantList" key="ProjectExplorer.RunConfiguration.LastDeployedTimes">
+       <value type="QDateTime">2017-09-07T12:56:48</value>
        <value type="QDateTime">2017-08-31T15:20:03</value>
       </valuelist>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.IgnoreMissingFiles">false</value>
@@ -1280,8 +1285,8 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Run on Boot2Qt Device</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">contactlist_modified on Boot2Qt Device</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Run &quot;/opt/contactlist_modified/bin/contactlist_modified&quot; on Boot2Qt Device</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QdbLinuxRunConfiguration:contactlist_modified</value>
     <value type="QString" key="QdbRunConfig.Arguments"></value>
     <value type="QString" key="QdbRunConfig.LocalExecutable">/home/ilangesl/myCode/build-contactlist-Custom_Qt_5_9_1_imx6qsabresd-Debug/contactlist_modified</value>
