@@ -54,7 +54,7 @@ OTHER_FILES += \
     designer/Backend/*.qml
 
 #target.path = $$[QT_INSTALL_EXAMPLES]/quickcontrols2/contactlist
-#INSTALLS += target
+INSTALLS += target
 
 #DISTFILES +=
 
